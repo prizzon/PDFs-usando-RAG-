@@ -1,1 +1,5 @@
+Estou construindo um chatbot que responde com base em PDFs.
+Embeddings permitem comparar similaridade semântica entre textos.
+Busca vetorial recupera trechos relevantes para responder perguntas.
+RAG combina recuperação + geração para respostas mais confiáveis.
 
